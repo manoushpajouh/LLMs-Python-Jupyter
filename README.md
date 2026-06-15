@@ -11,7 +11,7 @@ PyTorch/PyTorch Lightning
 
 # Usage
 
-To run the code, see the jupyter notebook linked at the top of each file.
+To run each file's code, see the Jupyter notebook linked at the top of each file.
 
 # Contact
 
